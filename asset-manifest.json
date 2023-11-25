@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bookstore-app.github.io/static/css/main.d6dcc9aa.css",
+    "main.js": "/bookstore-app.github.io/static/js/main.21a06f2f.js",
+    "static/js/787.1bf3e14f.chunk.js": "/bookstore-app.github.io/static/js/787.1bf3e14f.chunk.js",
+    "static/media/logo.svg": "/bookstore-app.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bookstore-app.github.io/index.html",
+    "main.d6dcc9aa.css.map": "/bookstore-app.github.io/static/css/main.d6dcc9aa.css.map",
+    "main.21a06f2f.js.map": "/bookstore-app.github.io/static/js/main.21a06f2f.js.map",
+    "787.1bf3e14f.chunk.js.map": "/bookstore-app.github.io/static/js/787.1bf3e14f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6dcc9aa.css",
+    "static/js/main.21a06f2f.js"
+  ]
+}
